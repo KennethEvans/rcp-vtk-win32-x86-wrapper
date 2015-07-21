@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: VTK Win32-X86
+Bundle-SymbolicName: net.kenevans.vtk.win32.x86
+Bundle-Version: 5.4.0
+Bundle-Vendor: VTK
+Fragment-Host: net.kenevans.vtk;bundle-version="5.4.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-PlatformFilter: (& (osgi.os=win32) (osgi.arch=x86))
